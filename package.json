@@ -1,5 +1,5 @@
 {
-  "name": "jugnu-music",
+  "name": "Keanz Müzik Botu",
   "version": "1.0.0",
   "description": "I'm a Discord Bot Developer and here is mine Discord Music Bot",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kabirsingh2004/JUGNU-MUSIC.git"
+    "url": "https://github.com/Skascoo/Recion-Music"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kabirsingh2004/JUGNU-MUSIC/issues"
+    "url": "https://github.com/Skascoo/Recion-Music"
   },
-  "homepage": "https://github.com/kabirsingh2004/JUGNU-MUSIC#readme",
+  "homepage": "https://github.com/Skascoo/Recion-Music",
   "dependencies": {
     "@discordjs/voice": "^0.15.0",
     "@distube/deezer": "^1.0.0",
